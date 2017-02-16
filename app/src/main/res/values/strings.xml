@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizZzz</string>
+
+    <string name="title">Metalhead?\n Prove it!</string>
+    <string name="start">Start</string>
+    <string name="q1">What legendary metal band from Finland has made masterpieces like \"One with misery\" and \"Sun won\'t shine\"? </string>
+    <string name="q2">Who did Philip Anselmo get inspiration to his nickname from while performing on Necrophagias 1999 album \"Holocauste de la morte\"? </string>
+    <string name="q3">Who is the singer of Gojira?</string>
+    <string name="q4">What of these are Dark Tranquillity albums?</string>
+    <string name="correct">Correct!</string>
+    <string name="wrong">Wrong!</string>
+    <string name="finish">Finish</string>
+    <string name="your_score">Score: </string>
+    <string name="zero">You must be either chick or listen to Kanye West</string>
+    <string name="low">Not bad.. You should try out something you didn\'t know</string>
+    <string name="high">Wow, you must like moshpits!</string>
+    <string name="perfect">If you\'re a woman, call me!</string>
+</resources>
